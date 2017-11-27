@@ -25,7 +25,7 @@ brand {
 }
 #menuBar {
     list-style-type: none;
-    background-color: #ad5d33;
+    background-color: #7094db;
     display: inline-block;
     width: 100%;
 }
@@ -62,18 +62,18 @@ padding:40px 320px;
 
 }
 .glowRight {
-  background: #993300; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left, #993300 , white); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(right, #993300, white); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(right, #993300, white); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to right, #993300 , white); /* Standard syntax */
+  background: #4775d1; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, #4775d1 , white); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #4775d1, white); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #4775d1, white); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #4775d1 , white); /* Standard syntax */
 }
 .glowLeft {
-  background: #993300; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(right, #993300 , white); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(left, #993300, white); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(left, #993300, white); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to left, #993300 , white); /* Standard syntax */
+  background: #4775d1; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(right, #4775d1 , white); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(left, #4775d1, white); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(left, #4775d1, white); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to left, #4775d1 , white); /* Standard syntax */
 }
 .text1 {
   font-family: 'Great Vibes', cursive;
