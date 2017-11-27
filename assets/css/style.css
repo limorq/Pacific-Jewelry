@@ -1,0 +1,130 @@
+/*Creates the "fixed" navbar visible on page load */
+#navbar {
+    margin-bottom: 0px; 
+    height: 100px;
+    text-align: center; 
+    background-color: white;
+    height: 15%;
+}
+
+brand {
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 3.7em;
+  color: black;
+  letter-spacing: 3px;
+  margin-left: 5%;
+  display: inline;
+  letter-spacing: 3px;
+}
+#phone {
+  font-size: 1.2em;
+  color: black;
+  
+  display: inline;
+  margin-left: 60%;
+}
+#menuBar {
+    list-style-type: none;
+    background-color: #ad5d33;
+    display: inline-block;
+    width: 100%;
+}
+
+.menuList {
+    font-family: 'Varela', sans-serif;
+    display: inline;
+    font-size: 1.2em;
+    padding: 30px;
+}
+
+.menuLink {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.menuLink:hover {
+    background-color: #111;
+    text-decoration: none;
+    color: floralwhite;
+}
+
+#aboutPanel {
+color: black;
+height: 350px;
+background-color: #EEECF0;
+text-align:center;
+padding:40px 320px; 
+}
+.carousel1 {
+  margin-top: 15%;
+
+}
+.glowRight {
+  background: #993300; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, #993300 , white); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #993300, white); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #993300, white); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #993300 , white); /* Standard syntax */
+}
+.glowLeft {
+  background: #993300; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(right, #993300 , white); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(left, #993300, white); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(left, #993300, white); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to left, #993300 , white); /* Standard syntax */
+}
+.text1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 2.8em;
+  color: #662200;
+  letter-spacing: 1px;
+}
+.text2 {
+  font-size: 1.7em;
+  color: #662200;
+  letter-spacing: 1px;
+  text-align: center;
+  text-decoration-line: underline;
+}
+.text3 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 2.8em;
+  color: #662200;
+  letter-spacing: 3px;
+}
+.text4 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 3em;
+  color: #662200;
+  letter-spacing: 3px;
+}
+.slick-slide img {
+  display: inline;
+}
+.gray {
+  color: #504b49;
+}
+.contain {
+  margin-left: 7%;
+  margin-top: 5%;
+  display: inline-block;
+  width: 650px;
+}
+.contain2 {
+  width: 650px;
+  margin: 10% auto;
+}
+.slider {
+  margin-top: 15%;
+  height: 325px;
+}
+.right {
+  float: right;
+  margin-right: 20%;
+  border-radius: 2px;
+}
+#rght {
+  margin-left: 100px;
+}
